@@ -1,4 +1,4 @@
-## Welcome to Gyurim’s GitHub  <img src="images/gifs/Hi.gif" width="28px" height="28px">
+## Welcome to eve’s GitHub  <img src="images/gifs/Hi.gif" width="28px" height="28px">
       
 <!-- <h1> <img src = 'images/gifs/happy.gif' alt = 'happy' width="30px" height="30px"/> Welcome to the 1000% immersive space for new developers!</h1> -->
 
