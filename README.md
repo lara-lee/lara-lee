@@ -6,7 +6,7 @@
 [![Blog](https://img.shields.io/badge/-Tech_Blog-1f6feb?style=flat-square&logo=github&logoColor=white)](https://laralee.github.io/)
 <img src="https://komarev.com/ghpvc/?username=laralee" alt="laralee" />
 
-Frontend · Backend · Data Science · Machine Learning 분야에서 일하고 있어요.
+Backend · Database · Cloud & Server Infra 분야에서 일하고 있어요.
 
 ### 🛠️ Tech Stack
 
@@ -31,3 +31,8 @@ Frontend · Backend · Data Science · Machine Learning 분야에서 일하고 �
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### 📜 Certifications
+
+![정보처리기사](https://img.shields.io/badge/정보처리기사-00599C?style=flat-square&logoColor=white)
+![SQLD](https://img.shields.io/badge/SQLD-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
