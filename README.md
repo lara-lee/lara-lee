@@ -31,9 +31,3 @@ Frontend · Backend · Data Science · Machine Learning 분야에서 일하고 �
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-
-### 📊 GitHub Stats
-
-![laralee's github stats](https://github-readme-stats.vercel.app/api?username=laralee&show_icons=true&hide=issues)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laralee&layout=compact)
